@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **dan-hubs/dan-hubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
